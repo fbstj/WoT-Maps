@@ -1,31 +1,59 @@
 Thankyou to all the previous mapmakers:
 
-* WOTMUD <http://www.wotmud.org/directory/maps.php>
-	altara/ebou-dar.bw.gif <http://www.wotmud.org/directory/maps/eboudar.gif>
-	andor/andor.bw.gif <http://www.wotmud.org/directory/maps/andor.gif>
-	andor/caemlyn.bw.jpg <http://www.wotmud.org/directory/maps/caemlyn.jpg>
-	andor/two-rivers.bw.gif <http://www.wotmud.org/directory/maps/tworivers.gif>
-	borderlands.gif	<http://www.wotmud.org/directory/maps/borderlands.gif>
-	cairhien/cairhien.bw.jpg <http://www.wotmud.org/directory/maps/cairhien.jpg>
-	far-madding/far-madding.bw.jpg <http://www.wotmud.org/directory/maps/farmadding.jpg>
-	tar-valon/tar-valon.bw.gif <http://www.wotmud.org/directory/maps/tarvalonmap.gif>
-	tarabon/tanchico.bw.gif <http://www.wotmud.org/directory/maps/tanchico.gif>
-	world-maps/
-		main-continent.hawkwing.gif <ttp://www.wotmud.org/directory/maps/p101.gif>
-		shara.color.gif <http://www.wotmud.org/directory/maps/p152.gif>
-		west.jpg <http://www.wotmud.org/directory/maps/wheeloftimemap.jpg>
-		world.jpg <http://www.wotmud.org/directory/maps/p146.gif>
+WOTMUD - http://www.wotmud.org/directory/maps.php
+WOT wikia - http://wot.wikia.com/wiki/Category:Maps
 
-WOT wikia <http://wot.wikia.com/wiki/Category:Maps>
-	altara/ebou-dar.color.png <http://wot.wikia.com/wiki/File:Eboudarmap.png>
-	andor/caemlyn.color.png <http://wot.wikia.com/wiki/File:Caemlynmap.png>
-	illian/illian.color.png <http://wot.wikia.com/wiki/File:IllianMap.png>
-	world-maps/seandar.color.png <http://wot.wikia.com/wiki/File:Seanshanmap.png>
-	tear/tear.colour.png <http://wot.wikia.com/wiki/File:Tearmap.png>
+Direct links:
 
-andor/caemlyn.color.jpg <>
+altara/
+    ebou-dar/
+        bw.gif - http://www.wotmud.org/directory/maps/eboudar.gif
+        color.png - http://wot.wikia.com/wiki/File:Eboudarmap.png
+    malden/color.png - http://wot.wikia.com/wiki/File:Maldenmap.png
+
+andor/
+    bw.gif - http://www.wotmud.org/directory/maps/andor.gif
+    caemlyn/
+        bw.jpg - http://www.wotmud.org/directory/maps/caemlyn.jpg
+        color.png - http://wot.wikia.com/wiki/File:Caemlynmap.png
+        battles.jpg - 
+    two-rivers/bw.gif - http://www.wotmud.org/directory/maps/tworivers.gif
+
+borderlands/bw.gif	- http://www.wotmud.org/directory/maps/borderlands.gif
+
+cairhien/
+    city/
+        bw.jpg - http://www.wotmud.org/directory/maps/cairhien.jpg
+        color.jpg - 
+
+far-madding/bw.jpg - http://www.wotmud.org/directory/maps/farmadding.jpg
+
+illian/
+    city/
+        color.png - http://wot.wikia.com/wiki/File:IllianMap.png
+        
+
+tar-valon/
+    bw.gif - http://www.wotmud.org/directory/maps/tarvalonmap.gif
+    color.png - http://wot.wikia.com/wiki/File:Tarvalonnmap.png
+
+tarabon/
+    tanchico/
+        bw.gif - http://www.wotmud.org/directory/maps/tanchico.gif
+
+tear/
+    city/
+        colour.png - http://wot.wikia.com/wiki/File:Tearmap.png
 
 world-maps/
-	main-continent.battles.jpg <>
-	main-continent.battles2.jpg <>
-	main-continent.color.jpg <>
+    battles/
+        
+	historic/
+	    hawkwing.gif - http://www.wotmud.org/directory/maps/p101.gif
+	    ten-nations.jpg -  (alternative: http://wot.wikia.com/wiki/File:Ten_Nations.JPG )
+	seandar/color.png - http://wot.wikia.com/wiki/File:Seanshanmap.png
+	shara/color.gif - http://www.wotmud.org/directory/maps/p152.gif
+	wetlands/
+	    color.png - http://wot.wikia.com/wiki/File:Wot_Map_(Color).png
+	west.color.jpg - http://www.wotmud.org/directory/maps/wheeloftimemap.jpg
+	color.jpg - http://www.wotmud.org/directory/maps/p146.gif
