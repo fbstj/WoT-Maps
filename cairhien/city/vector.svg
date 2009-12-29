@@ -57,9 +57,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="238.57648"
-     inkscape:cy="836.20279"
+     inkscape:zoom="0.35"
+     inkscape:cx="176.44228"
+     inkscape:cy="730.96309"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -70,8 +70,9 @@
      inkscape:snap-center="true"
      inkscape:window-width="1348"
      inkscape:window-height="956"
-     inkscape:window-x="0"
-     inkscape:window-y="74" />
+     inkscape:window-x="66"
+     inkscape:window-y="179"
+     borderlayer="true" />
   <metadata
      id="metadata2498">
     <rdf:RDF>
@@ -89,16 +90,16 @@
      id="layer1"
      sodipodi:insensitive="true">
     <image
-       y="-832.13776"
-       x="-156.42857"
+       y="-546.42346"
+       x="-270.71429"
        id="image2459"
        height="1889"
        width="1210"
        sodipodi:absref="/home/joe/wot/cairhien/city/bw.jpg"
        xlink:href="bw.jpg" />
     <image
-       y="-322.70749"
-       x="54.142834"
+       y="-36.993206"
+       x="-60.142879"
        id="image2606"
        height="1009.9268"
        width="730.28571"

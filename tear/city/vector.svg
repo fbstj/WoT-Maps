@@ -43,16 +43,21 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="45"
-     inkscape:cy="520"
+     inkscape:zoom="0.7"
+     inkscape:cx="228.38589"
+     inkscape:cy="523.66662"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     showborder="false"
+     showborder="true"
      inkscape:object-nodes="true"
      inkscape:object-paths="true"
-     inkscape:snap-nodes="true" />
+     inkscape:snap-nodes="true"
+     borderlayer="true"
+     inkscape:window-width="640"
+     inkscape:window-height="882"
+     inkscape:window-x="120"
+     inkscape:window-y="-44" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -70,8 +75,8 @@
      id="layer1"
      sodipodi:insensitive="true">
     <image
-       y="-365.42352"
-       x="-607.14288"
+       y="7.6192503"
+       x="9.9999733"
        id="image2489"
        height="1007"
        width="740"
